@@ -1,7 +1,9 @@
 # Flood_Mapping_with_DEMs
 Public repository of our IGARSS 2023 submission.
 
-This work is based on the [sen1floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset.
+This work is based on the [sen1floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset by:
+
+Bonafilia, D., Tellman, B., Anderson, T., Issenberg, E. 2020. Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020, pp. 210-211.
 
 ## Usage
 
