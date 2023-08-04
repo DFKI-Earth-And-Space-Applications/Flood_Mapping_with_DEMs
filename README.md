@@ -1,11 +1,24 @@
 # Flood_Mapping_with_DEMs
-Public repository of our IGARSS 2023 submission.
+Public repository of our IGARSS 2023 paper.
+
+## Citation
+Stricker, M., et al. "Fusing Digital Elevation Maps With Satellite Imagery For Flood Mapping" IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium* (2023).
+
+> Bibtex
+```
+@inproceedings{stricker2023fusingdigitalelevationmaps,
+  title = {Fusing Digital Elevation Maps With Satellite Imagery For Flood Mapping},
+  booktitle = {{{IGARSS}} 2023 - 2023 {{IEEE International Geoscience}} and {{Remote Sensing Symposium}}},
+  author = {Stricker, Marco and Miyamoto, Takashi and Iselborn, Kevin and Nuske, Marlon and Dengel, Andreas}, 
+  date = {2023},
+  publisher = {{IEEE}}
+```
+
+## Usage
 
 This work is based on the [sen1floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset by:
 
 Bonafilia, D., Tellman, B., Anderson, T., Issenberg, E. 2020. Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020, pp. 210-211.
-
-## Usage
 
 Please download the data from the [sen1floods11](https://github.com/cloudtostreet/Sen1Floods11) dataset.
 
